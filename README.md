@@ -115,23 +115,7 @@ const iflaq = {
 
 <br>
 
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=iflaqbhat&theme=dracula&no-frame=true&row=1&column=7&margin-w=8" />
-</div>
-
 <br>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Iflaqbhat/Iflaqbhat/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
-<sub align="center">↳ generated via the <a href="https://github.com/Platane/snk">snk GitHub Action</a> — set it up once on your profile repo to keep this animated automatically.</sub>
-
-<br><br>
 
 <div align="center">
 
