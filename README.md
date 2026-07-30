@@ -124,7 +124,7 @@ An online art marketplace with authentication, artwork management, and Supabase 
 **Tech**
 `React` `Supabase` `PostgreSQL`
 
-[🔗 Live](https://canvaso.netlify.app) • [📂 Code](https://github.com/Iflaqbhat/canvaso)
+[🔗 Live]((https://maison-curator.netlify.app/)) • [📂 Code](https://github.com/Iflaqbhat/canvaso)
 
 </td>
 </tr>
