@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Iflaq%20Khurshid&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%C2%B7%20Next.js%20%C2%B7%20TypeScript%20%C2%B7%20Node.js&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Iflaq%20Khurshid&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Evaluation%20%C2%B7%20React%20%C2%B7%20TypeScript%20%C2%B7%20Node.js&descAlignY=58&descAlign=50" width="100%"/>
 
 <a href="https://iflaqbhat.netlify.app">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I+build+full-stack+products,+end+to+end.;Currently+reviewing+AI-generated+code+%40+Habitat+Inc.;Open+to+full+stack+%2F+frontend+roles.&font=Fira+Code&center=true&width=650&height=45&color=58A6FF&vCenter=true&size=22" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%40+Habitat+Inc.+(Contract);AI+Code+Evaluation+%7C+React+%7C+TypeScript+%7C+Node.js;Reviewing+and+evaluating+AI-generated+code+on+large+open-source+projects.&font=Fira+Code&center=true&width=700&height=45&color=58A6FF&vCenter=true&size=22" alt="Typing SVG"/>
 </a>
 
 <br>
@@ -19,22 +19,47 @@
 
 ## 👨‍💻 About Me
 
-\`\`\`typescript
+```typescript
 const iflaq = {
   role: "Software Engineer (Independent Contractor) @ Habitat Inc.",
-  education: "B.E. Computer Science, 2024",
-  focus: ["Full Stack Development", "Code Review & Evaluation", "Product Engineering"],
-  currentlyDoing: "Reviewing PRs & evaluating AI-generated patches across Devito, SymEngine, Dagster",
-  lookingFor: "Full stack / frontend developer roles where I can ship, not just review",
-  funFact: "I turn Figma files into pixel-perfect, accessible UI without blinking"
+  education: "B.E. Computer Science (2024)",
+  experience: [
+    "AI Code Evaluation",
+    "React & Node.js Development",
+    "Open Source Repositories"
+  ],
+  currentlyWorkingOn: [
+    "Reviewing merged pull requests",
+    "Evaluating AI-generated code",
+    "Designing behavioral and hidden test cases"
+  ],
+  tech: [
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Node.js",
+    "Express",
+    "PostgreSQL",
+    "MongoDB",
+    "Prisma"
+  ],
+  interestedIn: [
+    "AI Evaluation",
+    "Developer Tools",
+    "Software Engineering"
+  ]
 };
-\`\`\`
+```
 
-- 🔭 Working as a **Software Engineer (Independent Contractor)** at **Habitat Inc.** — reviewing pull requests, evaluating AI-generated code against spec, and designing behavioral tests that catch what automated tests miss.
-- 💻 Previously a **Frontend Developer Intern** at **SnapSec.co**, shipping accessible, responsive React UI from Figma.
-- 🌱 Sharpening backend architecture and system design on the side, one project at a time.
-- 🎯 Actively looking for my next **full stack / frontend role**.
-- ⚡ Fun fact: I review AI-written code for a living, then go write my own for fun.
+- 💼 **Software Engineer (Independent Contractor) @ Habitat Inc.**, where I review merged pull requests from large open-source repositories, evaluate AI-generated code, and design behavioral test cases for coding models.
+
+- 💻 Previously worked as a **Frontend Developer Intern @ SnapSec**, building responsive React interfaces from Figma designs.
+
+- 🚀 I enjoy building full-stack applications with **React, TypeScript, Node.js, Express, PostgreSQL, MongoDB, and Prisma** while continuously improving my backend and system design skills.
+
+- 🌱 Currently interested in **AI evaluation, coding benchmarks, developer tools, and full-stack software engineering**.
+
+- 🎯 Open to opportunities in **AI Evaluation, Software Engineering, and Developer Tools**.
 
 <br>
 
@@ -44,7 +69,7 @@ const iflaq = {
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,bootstrap&theme=dark" /><br><br>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,supabase,prisma&theme=dark" /><br><br>
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,postman,java,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,java,cpp&theme=dark" />
 
 </div>
 
@@ -67,56 +92,54 @@ const iflaq = {
 <tr>
 <td width="50%" valign="top">
 
-**🛒 Coursell** — full-stack course marketplace
-- JWT auth with role-based access for students & admins
-- Admin panel for courses, pricing, and lesson content
-- YouTube/Vimeo-based streaming with dynamic lesson handling
-- Scalable API + schema for user access and course management
+### 🛒 Coursell
 
-\`React\` \`Node.js\` \`Express\` \`JWT\` \`MongoDB\`
+A full-stack course marketplace with authentication, role-based access, and course management.
 
-[🔗 Live](https://coursell.netlify.app) · [📂 Code](https://github.com/Iflaqbhat/coursell)
+**Highlights**
+- JWT authentication
+- Student & Admin roles
+- Course management dashboard
+- REST API with MongoDB
+
+**Tech**
+`React` `Node.js` `Express` `MongoDB`
+
+[🔗 Live](https://coursell.netlify.app) • [📂 Code](https://github.com/Iflaqbhat/coursell)
 
 </td>
+
 <td width="50%" valign="top">
 
-**🎨 Canvaso** — two-sided art marketplace
-- Google OAuth + email auth with persistent user data
-- Artwork browsing, favorites, and purchase inquiry flows
-- Admin tools for artworks, collections, and interactions
-- Supabase-backed auth, storage, and database layer
+### 🎨 Canvaso
 
-\`React\` \`Supabase\` \`OAuth\` \`PostgreSQL\`
+An online art marketplace with authentication, artwork management, and Supabase integration.
 
-[🔗 Live](https://canvaso.netlify.app) · [📂 Code](https://github.com/Iflaqbhat/canvaso)
+**Highlights**
+- Google OAuth & Email Authentication
+- Artwork browsing and favorites
+- Admin dashboard
+- Supabase Auth & Database
+
+**Tech**
+`React` `Supabase` `PostgreSQL`
+
+[🔗 Live](https://canvaso.netlify.app) • [📂 Code](https://github.com/Iflaqbhat/canvaso)
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-<i>More on my <a href="https://iflaqbhat.netlify.app">portfolio →</a></i>
-</div>
 
-<br>
-
-## 📊 GitHub Analytics
-
-
-<br>
-
-<br>
-
-<div align="center">
-
-## 📫 Let's Connect
+### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iflaqkhurshid)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/RollNo__07)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RollNo__07)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ifuubhat72@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://iflaqbhat.netlify.app)
 
-<sub>Thanks for stopping by — always happy to talk code, architecture, or opportunities 😊</sub>
+<sub>Thanks for visiting! Feel free to connect if you'd like to discuss software engineering, AI evaluation, or interesting projects.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer" width="100%"/>
 
