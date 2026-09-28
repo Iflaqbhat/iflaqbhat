@@ -105,7 +105,7 @@ A full-stack course marketplace with authentication, role-based access, and cour
 **Tech**
 `React` `Node.js` `Express` `MongoDB`
 
-[🔗 Live](https://coursell.netlify.app) • [📂 Code](https://github.com/Iflaqbhat/coursell)
+[🔗 Live](https://coursell.netlify.app) • [📂 Code](https://github.com/Iflaqbhat/coursel)
 
 </td>
 
@@ -124,7 +124,7 @@ An online art marketplace with authentication, artwork management, and Supabase 
 **Tech**
 `React` `Supabase` `PostgreSQL`
 
-[🔗 Live](https://maison-curator.netlify.app/) • [📂 Code](https://github.com/Iflaqbhat/canvaso)
+[🔗 Live](https://maison-curator.netlify.app/) • [📂 Code](https://github.com/Iflaqbhat/Aman-Art)
 
 </td>
 </tr>
