@@ -1,146 +1,60 @@
-<div align="center">
+# Iflaq Khurshid
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Iflaq%20Khurshid&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Evaluation%20%C2%B7%20React%20%C2%B7%20TypeScript%20%C2%B7%20Node.js&descAlignY=58&descAlign=50" width="100%"/>
+Web development, open-source contributions, and AI code evaluation.
 
-<a href="https://iflaqbhat.netlify.app">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%40+Habitat+Inc.+(Contract);AI+Code+Evaluation+%7C+React+%7C+TypeScript+%7C+Node.js;Reviewing+and+evaluating+AI-generated+code+on+large+open-source+projects.&font=Fira+Code&center=true&width=700&height=45&color=58A6FF&vCenter=true&size=22" alt="Typing SVG"/>
-</a>
+Based in Jammu and Kashmir, India. Open to remote junior technical roles and internships.
 
-<br>
+[Portfolio](https://iflaqbhat.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/iflaqkhurshid) · [Email](mailto:ifuubhat72@gmail.com)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-iflaqbhat.netlify.app-000?style=for-the-badge&logo=vercel&logoColor=white)](https://iflaqbhat.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iflaqkhurshid)
-[![Email](https://img.shields.io/badge/Email-Reach%20out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ifuubhat72@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=iflaqbhat&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
+## What I'm Working On
 
-</div>
+- Contributing bug fixes and regression tests to [Cua](https://github.com/trycua/cua).
+- Building web projects with React, TypeScript, Node.js, and databases.
+- Strengthening backend fundamentals, testing, and my understanding of unfamiliar codebases.
 
-<br>
+## Open Source
 
-## 👨‍💻 About Me
+Selected contributions to **Cua**, an open-source project for computer-use agents:
 
-```typescript
-const iflaq = {
-  role: "Software Engineer (Independent Contractor) @ Habitat Inc.",
-  education: "B.E. Computer Science (2024)",
-  experience: [
-    "AI Code Evaluation",
-    "React & Node.js Development",
-    "Open Source Repositories"
-  ],
-  currentlyWorkingOn: [
-    "Reviewing merged pull requests",
-    "Evaluating AI-generated code",
-    "Designing behavioral and hidden test cases"
-  ],
-  tech: [
-    "JavaScript",
-    "TypeScript",
-    "React",
-    "Node.js",
-    "Express",
-    "PostgreSQL",
-    "MongoDB",
-    "Prisma"
-  ],
-  interestedIn: [
-    "AI Evaluation",
-    "Developer Tools",
-    "Software Engineering"
-  ]
-};
-```
+| Contribution | What Changed | Status |
+| --- | --- | --- |
+| [Unicode host metadata #4501](https://github.com/trycua/cua/pull/4501) | Preserve account names containing non-ASCII characters when creating host Spaces. | Merged |
+| [Background service updates #4337](https://github.com/trycua/cua/pull/4337) | Preserve the Lume background service during updates. | Merged |
+| [On-demand training examples #4022](https://github.com/trycua/cua/pull/4022) | Parse training examples on demand instead of retaining every parsed example in memory. | Merged |
 
-- 💼 **Software Engineer (Independent Contractor) @ Habitat Inc.**, where I review merged pull requests from large open-source repositories, evaluate AI-generated code, and design behavioral test cases for coding models.
+[All my Cua pull requests](https://github.com/trycua/cua/pulls?q=is%3Apr+author%3AIflaqbhat) · [Merged contributions](https://github.com/trycua/cua/pulls?q=is%3Apr+is%3Amerged+author%3AIflaqbhat)
 
-- 💻 Previously worked as a **Frontend Developer Intern @ SnapSec**, building responsive React interfaces from Figma designs.
+## Selected Projects
 
-- 🚀 I enjoy building full-stack applications with **React, TypeScript, Node.js, Express, PostgreSQL, MongoDB, and Prisma** while continuously improving my backend and system design skills.
+### [Canvaso](https://github.com/Iflaqbhat/Art-Gallery)
 
-- 🌱 Currently interested in **AI evaluation, coding benchmarks, developer tools, and full-stack software engineering**.
+An art-gallery application with a React frontend, a Node.js/Express API, PostgreSQL, and Clerk authentication. The repository includes database migrations, curator access configuration, and deployment instructions.
 
-- 🎯 Open to opportunities in **AI Evaluation, Software Engineering, and Developer Tools**.
+**Stack:** React, TypeScript, Express, PostgreSQL, Clerk.
 
-<br>
+### [Coursell](https://github.com/Iflaqbhat/coursel)
 
-## 🛠️ Tech Stack
+A course-platform project with separate React/TypeScript and Express applications, student and admin authentication, and course-management routes.
 
-<div align="center">
+**Stack:** React, TypeScript, Node.js, Express, MongoDB.
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,bootstrap&theme=dark" /><br><br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,supabase,prisma&theme=dark" /><br><br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,java,cpp&theme=dark" />
+### [TypeScript Learning](https://github.com/Iflaqbhat/Typescript)
 
-</div>
+Small, runnable lessons with explanations and tests. Topics include lazy loading, generic object keys, and discriminated unions. Examples run in strict mode and include compile-time checks alongside runtime tests.
 
-<br>
+[Lazy loading](https://github.com/Iflaqbhat/Typescript/tree/main/day-02) · [Generic keys](https://github.com/Iflaqbhat/Typescript/tree/main/day-03) · [Request states](https://github.com/Iflaqbhat/Typescript/tree/main/day-04)
 
-## 🚀 Featured Projects
+## Experience
 
-<div align="center">
+- **Previously: independent contractor at Habitat Inc.** Worked on AI code evaluation and behavioral test cases.
+- **Previously: frontend developer intern at SnapSec.** Built responsive React interfaces from Figma designs.
 
-<a href="https://github.com/Iflaqbhat/coursell">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iflaqbhat&repo=coursell&theme=dracula&hide_border=true" />
-</a>
-<a href="https://github.com/Iflaqbhat/canvaso">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iflaqbhat&repo=canvaso&theme=dracula&hide_border=true" />
-</a>
+## Technologies I Use
 
-</div>
+- **Web:** JavaScript, TypeScript, React, HTML, CSS.
+- **Backend and data:** Node.js, Express, PostgreSQL, MongoDB, Prisma.
+- **Development:** Git, GitHub, API testing, and regression tests.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## Get in Touch
 
-### 🛒 Coursell
-
-A full-stack course marketplace with authentication, role-based access, and course management.
-
-**Highlights**
-- JWT authentication
-- Student & Admin roles
-- Course management dashboard
-- REST API with MongoDB
-
-**Tech**
-`React` `Node.js` `Express` `MongoDB`
-
-[🔗 Live](https://coursell.netlify.app) • [📂 Code](https://github.com/Iflaqbhat/coursel)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎨 Canvaso
-
-An online art marketplace with authentication, artwork management, and Supabase integration.
-
-**Highlights**
-- Google OAuth & Email Authentication
-- Artwork browsing and favorites
-- Admin dashboard
-- Supabase Auth & Database
-
-**Tech**
-`React` `Supabase` `PostgreSQL`
-
-[🔗 Live](https://maison-curator.netlify.app/) • [📂 Code](https://github.com/Iflaqbhat/Aman-Art)
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iflaqkhurshid)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RollNo__07)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ifuubhat72@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://iflaqbhat.netlify.app)
-
-<sub>Thanks for visiting! Feel free to connect if you'd like to discuss software engineering, AI evaluation, or interesting projects.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer" width="100%"/>
-
-</div>
+I'm looking for an opportunity to contribute while growing as an engineer. For work or collaboration, email [ifuubhat72@gmail.com](mailto:ifuubhat72@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/iflaqkhurshid).
