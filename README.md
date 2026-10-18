@@ -46,7 +46,7 @@ Small, runnable lessons with explanations and tests. Topics include lazy loading
 
 ## Experience
 
-- **Previously: independent contractor at Habitat Inc.** Worked on AI code evaluation and behavioral test cases.
+- **Previously: independent contractor at Habitat Inc.** Created coding evaluation tasks and tests, and reviewed AI-generated code-review findings. Selected as one of 30 out of 350 contributors for the invite-only Issue Triage project.
 - **Previously: frontend developer intern at SnapSec.** Built responsive React interfaces from Figma designs.
 
 ## Technologies I Use
